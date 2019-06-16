@@ -1,0 +1,54 @@
+Metadata-Version: 1.1
+Name: typeguess
+Version: 0.0.2
+Summary: Data type guesser
+Home-page: https://github.com/rylans/typeguess
+Author: Rylan Santinon
+Author-email: rylans@gmail.com
+License: Apache 2.0
+Description: typeguess
+        =========
+        
+        |Build Status|
+        
+        Automatically guess data types
+        
+        Examples
+        ~~~~~~~~
+        
+        .. code:: python
+        
+            >>> from typeguess import guess
+            >>> guess(['hanson@mail.org'])
+            'string.email'
+        
+        .. code:: python
+        
+            >>> from typeguess import guess
+            >>> guess(['m', 'f'])
+            'string.vcard.gender'
+        
+        Planned Features
+        ~~~~~~~~~~~~~~~~
+        
+        -  vCard types
+        -  XML Schema types
+        
+        License
+        -------
+        
+        Apache 2.0
+        
+        .. |Build Status| image:: https://travis-ci.org/rylans/typeguess.svg?branch=master
+           :target: https://travis-ci.org/rylans/typeguess
+        
+Keywords: typeguess,type guesser,datatype guesser
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Utilities

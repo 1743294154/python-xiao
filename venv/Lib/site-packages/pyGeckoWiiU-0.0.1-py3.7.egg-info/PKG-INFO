@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pyGeckoWiiU
+Version: 0.0.1
+Summary: Python Library for use with pygecko on the Wii U
+Home-page: https://github.com/RedSoloFox/pyGecko
+Author: redsolofox
+Author-email: RedSoloFox@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: geckopush
+Version: 0.4
+Summary: Easy to use python 3 library for pushing data your custom Geckoboard widgets
+Home-page: http://www.github.com/patleeman/geckopush
+Author: Patrick Lee
+Author-email: me@patricklee.nyc
+License: UNKNOWN
+Download-URL: http://www.github.com/patleeman/geckopush/tarball/0.1
+Description: UNKNOWN
+Keywords: geckoboard,api,widget
+Platform: UNKNOWN

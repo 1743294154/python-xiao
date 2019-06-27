@@ -1,0 +1,9 @@
+setuptools
+zc.buildout
+zc.recipe.egg
+hexagonit.recipe.download
+
+[tests]
+zope.testing
+zc.buildout
+Mock
